@@ -15,6 +15,13 @@
       "when": 1719926688283,
       "tag": "0001_bitter_kingpin",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1719927205385,
+      "tag": "0002_red_cammi",
+      "breakpoints": true
     }
   ]
 }
